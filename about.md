@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
+### 我呀
+学的计算机专业的，C++，C，Java，数据库，什么乱七八糟的一大推，大三下学期接触了网页设计，相对于那些觉得还能接受，老师课堂上教一点，但是真的是教的太少了，自己就去图书馆借有关这方面的书，看啊练习啊，第一次根据淘宝把淘宝的静态页面写下来的时候，更加坚定了我进军前端的决心！就这样大四上学期课也不多了，大家都开始纠结找工作还是考研的时候，我妈妈的意思就是让我考研啊 或者在家给我找个工作 待在郑州！可是我不想啊 我想出去 除了出去玩 还没离开过河南呢 ！不想待在学校了，有点抗拒学校了！再加上那一段和男票分手，更加想逃离洛阳，郑州！于是期中考试过后， 我找到导员办了离校手续，和朋友一起来到了上海！！！在这里开启我的前端梦想！！！
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[13661431851@163.com](13661431851@163.com)
